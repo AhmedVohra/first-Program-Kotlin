@@ -1,2 +1,2 @@
-# first-Program-java-
+# first-Program-Kotlin-
 just a sample program.
